@@ -1,0 +1,27 @@
+{
+  "files": {
+    "SKILL.md": "c49a4f037f4da26979fff044604720cd85cc659734de5c117602dded6f4725b5",
+    "references/controller.md": "976e196a5d4e7270428e197c22de21d1673a9029f672d5d3fafbdcc5558f9127",
+    "references/reminders.md": "2a0d59c4c5c2f29ce3a475c2176910fb37fdcae876eb6c2e354607a6ea69c666",
+    "runtime/codex_compass/__init__.py": "f523ed005d16206788e36c150d6555cedff0e71f50098c0504a202fcfbeed733",
+    "runtime/codex_compass/__main__.py": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d",
+    "runtime/codex_compass/assist.py": "e92697fcae0a1a6366791368241ed19628e23db6b41f114b856f2c3e825c1653",
+    "runtime/codex_compass/cli.py": "c10311dd9b3c63f6356de7a3cb5b24084c1f975c46067ebe5a15f81f9fed63ca",
+    "runtime/codex_compass/context.py": "c11e329e253af95ef31a7385b1406f8d47e7e62dcc2075d2c55c3b0075e6604b",
+    "runtime/codex_compass/contracts.py": "a3b08962fd4165511e62a5d0f67eaf826feca2de7d7d6a8585556a3878b1b7ba",
+    "runtime/codex_compass/engine.py": "c27cf2b86c21cfc43fafc58bf1e31373a2db1147c7cdcea40fec102ed9600b2a",
+    "runtime/codex_compass/evidence.py": "e881e24106512e08e36bce614835f0577bd3de523086b7b93324e264b7d1fff1",
+    "runtime/codex_compass/hook_config.py": "81a383f643cb944a0f6dcf2d4fe313d53b70b456429b584778c39ec480c0f1e2",
+    "runtime/codex_compass/process.py": "8ce98a9949547abac2c1b736000030796fb4686c69c7552e1916dea38235c103",
+    "runtime/codex_compass/protocol.py": "e24fa16494d87e7e2d8845e386ee207a8c8232adda5b59cabaf763f3ccc7cc0b",
+    "runtime/codex_compass/reminders.py": "13d3b7e13c200c28ccd78e1b03b3856cc03e26df2ac4fd1f53f75105287bc50b",
+    "scripts/compass.py": "7d11251d4d1bad34569ffda8ab5f4901886679754437a795a3f815cf5a8dbe50",
+    "scripts/watch.py": "e545160a07aeea6d0ae3e9c47c343177cad9213bb3553d58d1d61a4af40715c2"
+  },
+  "installer_sha256": "01f28049d4238c8f25b42e136ce19b2e6350e2987e8c080b2604889045ce3a47",
+  "instructions_sha256": "c0c0288fb645e48c7a04a46d22a737bd74b25e4ae81d6a2fb6700da41aa13334",
+  "name": "codex-compass",
+  "schema_version": 1,
+  "source_version": "0.4.0",
+  "version": "0.4.0"
+}
